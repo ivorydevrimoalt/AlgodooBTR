@@ -1,4 +1,4 @@
-$filename = 'maps/your-map.phz';
+$filename = 'github.com/ivorydevrimoalt/AlgodooBTR/blob/main/BTR.phz';
 
 if (!file_exists($filename)) {
     http_response_code(404);
